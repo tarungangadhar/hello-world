@@ -1,2 +1,2 @@
 # hello-world
-For practicing the github flow
+Practice for branching, commits and pull requests.
